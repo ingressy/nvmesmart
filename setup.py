@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="nvmesmart",             # Name des Pakets
-    version="0.1.4",                     # Versionsnummer
+    version="0.1.5",                     # Versionsnummer
     description="a easy cli and maybe gui smart tool for linux",  # Kurzbeschreibung
     author="ingressy",
     license="MIT",                       # Lizenz
